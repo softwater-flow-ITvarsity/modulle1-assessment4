@@ -1,0 +1,31 @@
+table{
+font-family     : Helvetica, sans-serif;
+font-size       : 14px;
+
+    border-width    : 5px;
+border-collapse  : collapse;
+border-style     : solid ;
+border-color   : blue;
+background-color: cornsilk;
+    padding: solid;
+}
+td
+{
+    border-width    : 5px;
+    border-style     : solid ;
+    align-content: center;
+    border-color   : blue;
+}
+tr
+{
+     border-width    : 5px;
+    border-style     : solid ;
+    border-color   : blue;
+}
+th
+{
+      border-width    : 5px;
+    border-style     : solid ;
+    border-color   : blue;
+}
+}
